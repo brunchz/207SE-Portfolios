@@ -15,5 +15,5 @@ Please refer to the code provided.
 ### Screenshot of working server
 ![tcp-server-demo](https://i.postimg.cc/cCQ8XzQp/image.png)
 
-### Screenshot of date received client-side
+### Screenshot of data received client-side
 ![tcp-client-demo](https://i.postimg.cc/tgyvk0Fj/image.png)

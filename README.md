@@ -18,14 +18,14 @@ Every year will contain a different selection of labs. In 2020, we completed the
 
 ## Portfolio 2
 
-| **Labs**    | **Title**                        | **Comments**                                              |**Points**|
-|-------------|----------------------------------|-----------------------------------------------------------|--------|
-| Lab 12      | Multiprocessing                  | Completed.                                                |3 Points|
-| Lab 13      | Fork Menu                        | Completed.                                                |5 Points|
-| Lab 15      | Synchronisation ‘Hole in Bucket’ | Completed, needs comments.                                |3 Points|
-| Lab 16      | Consumer/Producer                | Completed.                                                |5 Points|
-| Lab 17      | TCP Server                       | Completed, needs more explanation on semantics & grammar. |4 Points|
-| Lab 19      | Operating System Security        | Completed, needs a more interesting approach to password generation.|3 Points|
+| **Labs**    | **Title**                        | **Comments**|**Points**|
+|-------------|----------------------------------|-----------|--------|
+| Lab 12      | Multiprocessing                  | Completed.|3 Points|
+| Lab 13      | Fork Menu                        | Completed.|5 Points|
+| Lab 15      | Synchronisation ‘Hole in Bucket’ | Completed.|3 Points|
+| Lab 16      | Consumer/Producer                | Completed.|5 Points|
+| Lab 17      | TCP Server                       | Completed.|4 Points|
+| Lab 19      | Operating System Security        | Completed.|3 Points|
 
 **Disclaimer: Please use this solely for reference purposes only.**
 

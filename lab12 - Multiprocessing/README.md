@@ -2,8 +2,8 @@
 
 |Grade|Improvements|
 |-------|------|
-|3 Points|Multiprocessing - Include a little more comparison of the multiprocess approaches. - Make better use of referencing. Scheduling - Include a little more comparison of the scheduling approaches. - Make better use of referencing.|
-## A. Comparison Of The Multitasking, Multiprogramming And Multithreading.
+|3 Points|Multiprocessing - Include a little more comparison of the multiprocess approaches. - Make better use of referencing.<br> Scheduling - Include a little more comparison of the scheduling approaches. - Make better use of referencing.|
+## A. Comparison Of The Multitasking, Multiprogramming and Multithreading.
 ### MULTITASKING
 
 Conventional wisdom suggests multitasking to be multiple tasks being run simultaneously, however (Abualrob 2012) suggests multitasking to be the illusion of parallelism by utilising context switching to assign different tasks to the CPU at any given time.

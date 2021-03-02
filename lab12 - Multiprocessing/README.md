@@ -33,3 +33,13 @@ All of these methods improve the efficiency of computers execution. They stem fr
 Scheduling is the allocation of resources to tasks in a computer. There exist 2 types of scheduling namely CPU Scheduling and Job Scheduling. The latter is responsible for task selection that will be brought from the job queue to the ready-state queue (secondary memory to main memory). From there, CPU scheduling steps in and utilises an algorithm to select which processes in the ready-state queue will be executed by the CPU next (how processes in main memory get CPU execution time). The following diagram illustrates this in more detail.
 
 ![CPU-vs-Job-scheduling](https://i.postimg.cc/8cF4pnk0/image.png)
+
+# References 
+1.	Abualrob, M. (2012) Difference between Multiprogramming, Multitasking, Multithreading and Multiprocessing [online] available from <https://www.8bitavenue.com/difference-between-multiprogramming-multitasking-multithreading-and-multiprocessing> [12 April 2020]
+
+2.	Lithmee (2018) Difference Between Job Scheduling and CPU Scheduling [online] available from <https://www.differencebetween.com/difference-between-job-scheduling-and-vs-cpu-scheduling/ > [12 April 2020]
+
+
+3.	Tolomei.G (n.d) Multiprogramming, Multiprocessing, Multitasking, and Multithreading [online] available from <https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/multiprogramming-multiprocessing-multitasking-multithreading/ >[12 April 2020]
+
+4.	Wikipedia (2020) Multithreading (computer architecture) [online] available from <https://en.wikipedia.org/wiki/Multithreading_(computer_architecture) >[12 April 2020]

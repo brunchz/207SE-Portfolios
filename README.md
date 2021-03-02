@@ -35,7 +35,7 @@ Every year will contain a different selection of labs. In 2020, we completed the
 | ------------- |-------------:| 
 | Portfolio 1      | 67.5% | 
 | Porfolio 2     | 77.14%  |  
-| Overall    | 72.32%  |  
+| _Overall_    | _72.32%_  |  
 
 
 ## Extras

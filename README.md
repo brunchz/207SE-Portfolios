@@ -5,27 +5,27 @@ Every year will contain a different selection of labs. In 2020, we completed the
 
 ## Portfolio 1
 
-| **Labs**    | **Title**                         | **Comments**                   |
-|-------------|-----------------------------------|--------------------------------|
-| Lab 1       | Introduction to Operating Systems | Completed.                     |
-| Lab 2       | Linux Commands                    | Completed.                     |
-| Lab 4       | Bootloader                        | Only attempted the Basic Task. |
-| Lab 5       | Proc                              | Completed.                     |
-| Lab 6       | Memory Management                 | Completed.                     |
-| Lab 8       | Cache Library                     | Only attempted the Basic Task. |
-| Lab 10      | Cache Library System Calls        | Only attempted the Basic Task. |
+| **Labs**    | **Title**                         | **Comments**                   |**Points**|
+|-------------|-----------------------------------|--------------------------------|--------|
+| Lab 1       | Introduction to Operating Systems | Completed.                     |4 Points|
+| Lab 2       | Linux Commands                    | Completed.                     |3 Points|
+| Lab 4       | Bootloader                        | Only attempted the Basic Task. |2 Points|
+| Lab 5       | Proc                              | Completed.                     |4 Points|
+| Lab 6       | Memory Management                 | Completed.                     |4 Points|
+| Lab 8       | Cache Library                     | Only attempted the Basic Task. |3 Points|
+| Lab 10      | Cache Library System Calls        | Only attempted the Basic Task. |3 Points|
 
 
 ## Portfolio 2
 
-| **Labs**    | **Title**                        | **Comments**                                              |
-|-------------|----------------------------------|-----------------------------------------------------------|
-| Lab 12      | Multiprocessing                  | Completed.                                                |
-| Lab 13      | Fork Menu                        | Completed.                                                |
-| Lab 15      | Synchronisation ‘Hole in Bucket’ | Completed, needs comments.                                |
-| Lab 16      | Consumer/Producer                | Completed.                                                |
-| Lab 17      | TCP Server                       | Completed, needs more explanation on semantics & grammar. |
-| Lab 19      | Operating System Security        | Completed, needs a more interesting approach to password generation.                |
+| **Labs**    | **Title**                        | **Comments**                                              |**Points**|
+|-------------|----------------------------------|-----------------------------------------------------------|--------|
+| Lab 12      | Multiprocessing                  | Completed.                                                |3 Points|
+| Lab 13      | Fork Menu                        | Completed.                                                |5 Points|
+| Lab 15      | Synchronisation ‘Hole in Bucket’ | Completed, needs comments.                                |3 Points|
+| Lab 16      | Consumer/Producer                | Completed.                                                |5 Points|
+| Lab 17      | TCP Server                       | Completed, needs more explanation on semantics & grammar. |4 Points|
+| Lab 19      | Operating System Security        | Completed, needs a more interesting approach to password generation.|3 Points|
 
 **Disclaimer: Please use this solely for reference purposes only.**
 

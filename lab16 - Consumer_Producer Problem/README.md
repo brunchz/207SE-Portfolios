@@ -1,4 +1,4 @@
-# Lab Activity 16 Consumer/producer
+# Lab Activity 16 - Consumer/producer problem
 |Grade|Improvements|
 |-------|------|
 |5 Points|None.|
